@@ -1,0 +1,53 @@
+# 🌟 Portfolio Website – README  
+Welcome to **[Client Name]'s Portfolio Website** repository!  
+This is a **modern, responsive, and visually engaging portfolio** created to showcase skills, projects, and achievements in one place.  
+---
+## 🚀 What’s Inside?  
+The project uses **HTML**, **CSS**, and media assets. Here’s the structure:  
+Portfolio/
+│
+├── index.html # Main webpage (home page)
+├── style.css # Styling for all sections
+├── images/ # All images used on the site
+└── videos/ # Videos used on the site
+
+---
+
+## ✏️ How to Update Content  
+
+**1. Edit Text and Layout**  
+- Open `index.html` to change headings, descriptions, or links.  
+
+**2. Change Colors or Styles**  
+- Open `style.css` to modify colors, fonts, or layouts.  
+
+**3. Add or Replace Media**  
+- Place new images inside the `images/` folder.  
+- Place new videos inside the `videos/` folder.  
+---
+## 🔄 How to See Your Changes  
+
+1. **Preview Locally:**  
+   - Double-click `index.html` and open in your browser.  
+
+2. **Upload Updates to GitHub:**  
+   - Go to your repository.  
+   - Click **Add file → Upload files**.  
+   - Drag and drop updated files or folders.  
+   - Commit the changes to the `main` branch.  
+
+3. **View Live Website:**  
+   - Open [https://kirthxna.github.io/Portfolio/](#).  
+   - Press **Ctrl + Shift + R** to refresh and clear cache.  
+---
+## 💡 Quick Tips  
+- **File Names:** Use lowercase names without spaces (e.g., `profile.jpg`).  
+- **Backup Important Files:** Before replacing major files, keep a copy.  
+- **Linked Files:** If you rename a file, update the link in `index.html` or `style.css`.  
+- **Optimize Videos:** Large videos can slow down the website.  
+---
+ 
+ ![GitHub last commit](https://img.shields.io/github/last-commit/Kirthxna/Portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/Kirthxna/Portfolio)
+
+
